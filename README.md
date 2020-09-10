@@ -4,7 +4,7 @@ This repository contains data and code associated with the following paper:
 
 Park, Y., Maffre, P., Goddéris, Y., Macdonald, F. A., Anttila, E. S. C., and Swanson-Hysell, N. L., 2020, Emergence of the Southeast Asian islands as a driver for Neogene cooling: Proceedings of the National Academy of Sciences, doi:10.1073/pnas.2011033117
 
-This repository is also archived on Zenodo: *Zenodo link goes here.*
+This repository is also archived on Zenodo: https://doi.org/10.5281/zenodo.4021653
 
 The GEOCLIM model itself is available here: https://github.com/piermafrost/GEOCLIM-dynsoil-steady-state/releases/tag/v1.0
 
